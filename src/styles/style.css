@@ -1,0 +1,26 @@
+* {
+    padding: 5px;
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-image: url(https://image.freepik.com/free-psd/arrangement-fast-food-wooden-background_23-2148321316.jpg);
+    background-size:cover; 
+    background-attachment: fixed;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+}
+
+food-list {
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+}
