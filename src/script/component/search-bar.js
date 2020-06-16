@@ -59,6 +59,7 @@ class SearchBar extends HTMLElement {
             color: green;
             font-weight: normal;
             border-radius: 50px;
+            text-align: center;
         }
         
         .search-container > button {
