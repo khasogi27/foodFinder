@@ -1,6 +1,6 @@
 # foodFinder
 
-Submission [Dicoding](https://www.dicoding.com/) (Bertema Food Finder)
+Submission [Dicoding Academy](https://www.dicoding.com/) (Bertema Food Finder)
 
 # "keterangan"
 
