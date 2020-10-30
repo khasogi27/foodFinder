@@ -16,4 +16,4 @@ Submission [Dicoding Academy](https://www.dicoding.com/) (Bertema Food Finder)
 
 # "catatan"
 
-- Diperlukan files node_mudules untuk menjalankannya dengan perintah "npn run start-dev"
+- Diperlukan npm install untuk menginstall package yg di perlukan dan jalankan "npn run start-dev" untuk memulai
